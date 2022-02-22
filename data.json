@@ -1,0 +1,64 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Dan",
+      "email": "dan@gmail.com",
+      "age": 15
+    },
+    {
+      "id": "2",
+      "name": "Simon",
+      "email": "simon@gmail.com",
+      "age": 25
+    },
+    {
+      "id": "3",
+      "name": "Mbaku",
+      "email": "baku@gmail.com",
+      "age": 27
+    },
+    {
+      "name": "elise",
+      "email": "elise@gmail.com",
+      "age": 24,
+      "id": "MrC2vns"
+    },
+    {
+      "name": "sonic",
+      "email": "sonic@gmail.com",
+      "age": 29,
+      "id": "MaWZGvj"
+    },
+    {
+      "name": "jWmerit",
+      "email": "jWmerit@gmail.com",
+      "age": 29,
+      "id": "tvFoIgL"
+    },
+    {
+      "name": "jWmerit",
+      "email": "jWmerit@gmail.com",
+      "age": 29,
+      "id": "djZyuLj"
+    },
+    {
+      "name": "jWmerit",
+      "email": "jWmerit@gmail.com",
+      "age": 29,
+      "id": "Jv0qarQ"
+    },
+    {
+      "name": "영준",
+      "email": "ee@dd.com",
+      "age": 3,
+      "id": "gtVYAnD"
+    },
+    {
+      "name": "영준333",
+      "email": "ee@dd.com",
+      "age": 32,
+      "id": "O5_lksM"
+    }
+  ]
+}
